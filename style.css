@@ -1,0 +1,72 @@
+a{
+  text-decoration: none;
+}
+
+body {
+  background-color: #EFD5C3;
+}
+
+body {
+  color: hotpink;
+  font-family: sans;
+}
+
+nav {
+  background-color: rgba(68, 159, 187, 0.8); 
+}
+
+nav li{
+  display: inline-block;
+}
+
+aside {
+  background-color: #57755E;
+}
+
+nav, aside {
+  color: purple;
+}
+
+a {
+      text-decoration: none;
+    }
+
+li {
+  text-decoration-line: none;
+}
+
+li:visited {
+  color: orange;
+}
+
+section {
+  border: solid;
+  border-color: red;
+}
+
+h2 {
+  box-shadow: 10px 10px;
+  color: blueviolet;
+}
+
+h1 {
+  font-size: 2.5em;
+}
+p {
+  font-size: .8rem;
+  text-align: justify;
+}
+
+span {
+  font-weight: bold;
+}
+
+main {
+  background-color: #747557;
+  width: 90%;
+  margin: auto;
+}
+/*not sure*/
+
+
+
